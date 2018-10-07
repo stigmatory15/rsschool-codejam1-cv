@@ -1,0 +1,29 @@
+body  {
+    font-family: Halvetica, Arial, sans-serif;
+    background-image: url(images/images.jpg);
+    background-size: 100%;
+    text-align: center;
+}
+p  {
+    font-size: 120%;
+    font-family: Halvetica, Arial, sans-serif;
+    font-style: italic;
+}
+header {
+    color: blue;
+    background-image: url(images/repka.jpg);
+    background-size: 100px;
+    border-top: 3px  solid aquamarine;
+    border-bottom: 3px  solid aquamarine;
+}
+footer  {
+    background-color: white;
+}
+h2  {
+    border-top: 3px  solid aquamarine;
+    border-bottom: 3px  solid aquamarine;
+    color: yellow;
+}
+img  {
+    border-radius: 50%;
+}
